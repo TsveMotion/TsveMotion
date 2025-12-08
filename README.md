@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @TsveMotion
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hey, I’m TsveMotion
 
-<!---
-TsveMotion/TsveMotion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Building high performance web platforms, booking systems and full SaaS infrastructures
+
+🌱 Currently mastering advanced backend architectures, distributed systems and DevOps
+
+💼 Founder of TsvWeb and creator of multiple platforms including Vonlix and TSVCore
+
+💞️ Open to collaborating on scalable SaaS products, automation tools and creative web apps
+
+📫 Reach me: kristiyan@tsvweb.com
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I turn “this might work” ideas into production-ready systems faster than I should
+
