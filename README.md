@@ -10,7 +10,5 @@
 
 📫 Reach me: kristiyan@tsvweb.com
 
-😄 Pronouns: he/him
-
 ⚡ Fun fact: I turn “this might work” ideas into production-ready systems faster than I should
 
