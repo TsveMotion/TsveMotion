@@ -100,7 +100,7 @@ If it’s here, it’s used somewhere.
 ## Contact
 
 Website: https://tsvetanov.co.uk  
-Studio: https://tsvweb.com  
+Studio: https://tsvweb.co.uk
 
 Open to:
 - serious collaborations
